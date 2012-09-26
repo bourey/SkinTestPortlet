@@ -22,17 +22,11 @@
 <jsp:directive.include file="/WEB-INF/jsp/include.jsp"/>
 
 <div class="portlet">
-    <div data-role="content" class="portlet-content">
-
-        <h2>Hello ${ fn:escapeXml(displayName) }!</h2>
-        
-        <p>Your email address is ${ fn:escapeXml(emailAddress) }</p>
-        
-        <portlet:renderURL var="preferencesUrl" portletMode="edit"/>
-        <p><a data-role="button" href="${ preferencesUrl }">Preferences</a></p>
-
-        <portlet:renderURL var="helpUrl" portletMode="help"/>
-        <p><a href="${ helpUrl }">Help</a></p>
-    
+    <div data-role="content" class="portlet-content">        
+        <ul data-role="listview">
+            <li><a href="<portlet:renderURL><portlet:param name="view" value="simpleContent-jQM"/></portlet:renderURL>">Simple Content</a></li>
+            <li><a href="<portlet:renderURL><portlet:param name="view" value="form-jQM"/></portlet:renderURL>">Form</a></li>
+            <li><a href="<portlet:renderURL><portlet:param name="view" value="feedList-jQM"/></portlet:renderURL>">Feed List</a></li>
+        </ul>
     </div>
 </div>

@@ -19,21 +19,18 @@
 
 package org.jasig.portlet.skintest.mvc.portlet;
 
-import java.util.Map;
-
-import javax.portlet.PortletRequest;
 import javax.portlet.RenderRequest;
-import javax.portlet.RenderResponse;
 
-import org.jasig.portlet.skintest.mvc.IViewSelector;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.jasig.portlet.skintest.mvc.IViewSelector;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.portlet.ModelAndView;
 import org.springframework.web.portlet.bind.annotation.ActionMapping;
 import org.springframework.web.portlet.bind.annotation.RenderMapping;
-import org.springframework.web.portlet.ModelAndView;
 
 /**
  * Main portlet view.
@@ -52,34 +49,16 @@ public class MainController {
     }
     
     @RenderMapping
-    public ModelAndView showMainView(
-            final RenderRequest request, final RenderResponse response) {
+    public ModelAndView showMainView(@RequestParam(required=false) String view,
+    		final RenderRequest request) {
 
-        // determine if the request represents a mobile browser and set the
-        // view name accordingly
-        final boolean isMobile = viewSelector.isMobile(request);
-        final String viewName = isMobile ? "main-jQM" : "main";        
-        final ModelAndView mav = new ModelAndView(viewName);
-        
-        if(logger.isDebugEnabled()) {
-            logger.debug("Using view name " + viewName + " for main view");
-        }
-
-        //Get the USER_INFO from portlet.xml,
-        //which gets it from personDirectoryContext.xml
-        @SuppressWarnings("unchecked")
-        final Map<String,String> userInfo = (Map<String,String>) request.
-                getAttribute(PortletRequest.USER_INFO);
-        
-        mav.addObject("username", request.getRemoteUser());
-        mav.addObject("displayName", userInfo.get("displayName"));
-        mav.addObject("emailAddress", userInfo.get("mail"));
-
-        if(logger.isDebugEnabled()) {
-            logger.debug("Rendering main view");
-        }
-
-        return mav;
+    	if (view == null) {
+	        // determine if the request represents a mobile browser and set the
+	        // view name accordingly
+	        final boolean isMobile = viewSelector.isMobile(request);
+	        view = isMobile ? "main-jQM" : "main";        
+    	}
+        return new ModelAndView(view);
 
     }
 
