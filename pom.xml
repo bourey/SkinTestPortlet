@@ -11,7 +11,7 @@
     <groupId>org.jasig.portlet.skintest</groupId>
     <artifactId>SkinTestPortlet</artifactId>
     <packaging>war</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-M1-SNAPSHOT</version>
     <name>SkinTestPortlet</name>
     <description>
         Starter Spring PortletMVC shell for Jasig JSR-286 Portlets
