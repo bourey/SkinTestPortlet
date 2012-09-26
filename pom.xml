@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.jasig.parent</groupId>
         <artifactId>jasig-parent</artifactId>
-        <version>33</version>
+        <version>34</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -21,13 +21,13 @@
     <properties>
         <portlet-api.version>2.0</portlet-api.version>
         <servlet-api.version>2.5</servlet-api.version>
-        <spring.version>3.0.5.RELEASE</spring.version>
+        <spring.version>3.1.2.RELEASE</spring.version>
         <jstl.version>1.1.2</jstl.version>
-        <log4j.version>1.2.14</log4j.version>
-        <junit.version>3.8.1</junit.version>
+        <log4j.version>1.2.17</log4j.version>
+        <junit.version>4.10</junit.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-logging.version>1.1.1</commons-logging.version>
-        <resource-server.version>1.0.23</resource-server.version>
+        <resource-server.version>1.0.26</resource-server.version>
     </properties>
 
     <dependencyManagement>
