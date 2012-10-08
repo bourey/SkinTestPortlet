@@ -34,77 +34,77 @@
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
             <li>
                 <a href="javascript:;">
                     <h3>Feed Item</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis elit a erat bibendum sit amet molestie nisl pellentesque. Aliquam lobortis, urna congue pretium facilisis, quam ligula vestibulum urna, nec eleifend ante lacus eget elit. Donec tristique erat sed ante scelerisque quis iaculis erat molestie. Donec ac massa ipsum, quis accumsan eros. Proin laoreet facilisis massa, vel suscipit libero gravida non. Praesent blandit mi eget turpis ultricies placerat. Mauris non convallis ligula. Curabitur sodales scelerisque libero, a vulputate ante placerat vitae. Cras ut turpis justo. Duis fringilla, purus sit amet egestas volutpat, felis lectus dictum elit, vitae condimentum nulla turpis.</p>
-                    <img src="<c:url value="/photos.png"/>"/>
+                    <img src="<c:url value="/images/photos.png"/>"/>
                 </a>
             </li>
         </ul>
